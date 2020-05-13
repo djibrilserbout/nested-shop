@@ -1,0 +1,13 @@
+.form-super-container {
+    display: flex;
+}
+.form-container {
+    margin: 50px auto;
+    background:white;
+    padding:50px;
+    max-width:500px;
+    border-radius: 10px;
+  }
+  .input-form {
+    margin:15px 0 15px 0;
+  }

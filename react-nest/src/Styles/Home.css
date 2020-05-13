@@ -1,0 +1,23 @@
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:92.5vh;
+}
+.home-message-container {
+
+    text-align: center;
+    margin:0 auto;
+    background:white;
+    padding:30px;
+    width:50%;
+    height:500px;
+    border-radius:10px;
+    
+}
+
+.carousel {
+    margin: 0 auto;
+    width:350px;
+    height:350px;
+  }

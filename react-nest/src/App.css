@@ -1,0 +1,9 @@
+body {
+  background:rgb(245, 226, 185)
+}
+ .guest-items {
+   display:flex
+ }
+ .guest-items li {
+   justify-content: center;
+ }
