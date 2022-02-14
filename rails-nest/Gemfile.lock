@@ -118,7 +118,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   mysql2
-  puma (~> 3.7)
+  puma (~> 4.3)
   rack-cors
   rails (~> 5.1.7)
   tzinfo-data
